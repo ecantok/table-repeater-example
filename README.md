@@ -1,7 +1,7 @@
 ## Requirements
 
 - PHP version 8.2 or higher installed.
-- MySQL 5.7+
+- SQLite or MySQL 5.7+
 - Composer
 - Node.js (18+) and NPM
 
